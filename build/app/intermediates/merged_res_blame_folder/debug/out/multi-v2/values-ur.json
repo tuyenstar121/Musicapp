@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\computer\\Desktop\\music_app-master\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ur\\values-ur.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\computer\\.gradle\\caches\\transforms-3\\f3593c2e27abde10a57278312c762b71\\transformed\\jetified-exoplayer-core-2.18.1\\res\\values-ur\\values-ur.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,127,194,266,336,413,484,575,660",
+                        "endColumns": "71,66,71,69,76,70,90,84,78",
+                        "endOffsets": "122,189,261,331,408,479,570,655,734"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "162,234,301,373,443,520,591,682,767",
+                        "endColumns": "71,66,71,69,76,70,90,84,78",
+                        "endOffsets": "229,296,368,438,515,586,677,762,841"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\computer\\.gradle\\caches\\transforms-3\\d3eef12ef8d5d93a3f37968b5f5cb64d\\transformed\\core-1.9.0\\res\\values-ur\\values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "1293",
+                        "endColumns": "100",
+                        "endOffsets": "1389"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\computer\\.gradle\\caches\\transforms-3\\72f681ddcc2871736962d4fee2af9c62\\transformed\\jetified-media2-session-1.2.0\\res\\values-ur\\values-ur.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,162,264,360,482",
+                        "endColumns": "106,101,95,121,126",
+                        "endOffsets": "157,259,355,477,604"
+                    },
+                    "to": {
+                        "startLines": "2,12,13,14,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,846,948,1044,1166",
+                        "endColumns": "106,101,95,121,126",
+                        "endOffsets": "157,943,1039,1161,1288"
+                    }
+                }
+            ]
+        }
+    ]
+}

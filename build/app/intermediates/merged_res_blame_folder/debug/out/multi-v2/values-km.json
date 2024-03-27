@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\computer\\Desktop\\music_app-master\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-km\\values-km.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\computer\\.gradle\\caches\\transforms-3\\f3593c2e27abde10a57278312c762b71\\transformed\\jetified-exoplayer-core-2.18.1\\res\\values-km\\values-km.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,126,185,251,320,393,464,562,657",
+                        "endColumns": "70,58,65,68,72,70,97,94,68",
+                        "endOffsets": "121,180,246,315,388,459,557,652,721"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "157,228,287,353,422,495,566,664,759",
+                        "endColumns": "70,58,65,68,72,70,97,94,68",
+                        "endOffsets": "223,282,348,417,490,561,659,754,823"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\computer\\.gradle\\caches\\transforms-3\\72f681ddcc2871736962d4fee2af9c62\\transformed\\jetified-media2-session-1.2.0\\res\\values-km\\values-km.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,157,254,348,469",
+                        "endColumns": "101,96,93,120,120",
+                        "endOffsets": "152,249,343,464,585"
+                    },
+                    "to": {
+                        "startLines": "2,12,13,14,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,828,925,1019,1140",
+                        "endColumns": "101,96,93,120,120",
+                        "endOffsets": "152,920,1014,1135,1256"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\computer\\.gradle\\caches\\transforms-3\\d3eef12ef8d5d93a3f37968b5f5cb64d\\transformed\\core-1.9.0\\res\\values-km\\values-km.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "1261",
+                        "endColumns": "100",
+                        "endOffsets": "1357"
+                    }
+                }
+            ]
+        }
+    ]
+}

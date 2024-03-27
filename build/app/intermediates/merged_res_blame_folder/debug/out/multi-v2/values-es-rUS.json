@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\computer\\Desktop\\music_app-master\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rUS\\values-es-rUS.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\computer\\.gradle\\caches\\transforms-3\\f3593c2e27abde10a57278312c762b71\\transformed\\jetified-exoplayer-core-2.18.1\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,130,193,258,327,404,478,567,655",
+                        "endColumns": "74,62,64,68,76,73,88,87,68",
+                        "endOffsets": "125,188,253,322,399,473,562,650,719"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "163,238,301,366,435,512,586,675,763",
+                        "endColumns": "74,62,64,68,76,73,88,87,68",
+                        "endOffsets": "233,296,361,430,507,581,670,758,827"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\computer\\.gradle\\caches\\transforms-3\\72f681ddcc2871736962d4fee2af9c62\\transformed\\jetified-media2-session-1.2.0\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,163,261,361,489",
+                        "endColumns": "107,97,99,127,130",
+                        "endOffsets": "158,256,356,484,615"
+                    },
+                    "to": {
+                        "startLines": "2,12,13,14,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,832,930,1030,1158",
+                        "endColumns": "107,97,99,127,130",
+                        "endOffsets": "158,925,1025,1153,1284"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\computer\\.gradle\\caches\\transforms-3\\d3eef12ef8d5d93a3f37968b5f5cb64d\\transformed\\core-1.9.0\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "1289",
+                        "endColumns": "100",
+                        "endOffsets": "1385"
+                    }
+                }
+            ]
+        }
+    ]
+}
